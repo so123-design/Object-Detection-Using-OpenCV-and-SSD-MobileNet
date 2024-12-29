@@ -1,1 +1,2 @@
 # Object-Detection-Using-OpenCV-and-SSD-MobileNet
+Object detection is a crucial task in computer vision, allowing computers to identify and localize objects in images or videos. This project showcases a real-time object detection system implemented using OpenCV and a pre-trained MobileNet-SSD model. The system leverages a lightweight deep neural network architecture to perform accurate object detection on images and live video streams, including webcam feeds
